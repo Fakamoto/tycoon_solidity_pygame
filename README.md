@@ -10,3 +10,14 @@ This is a nice example of an integration of `Pygame` and `Brownie` to make a `bl
 * [ganache](https://github.com/trufflesuite/ganache) - tested with version [7.0.2](https://github.com/trufflesuite/ganache/releases/tag/v7.0.2)
 * [brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
 * [pygame](https://www.pygame.org/download.shtml)
+
+### To run the app, you just have to run in your command line the next line:
+
+To run the app, you just have to run in your command line the next line:
+
+```
+pip3 install -r requirements.txt
+brownie run game
+```
+
+
